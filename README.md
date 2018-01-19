@@ -6,7 +6,7 @@ A tiny Win32 demo that recreates the JPN Sega Master System BIOS' attract mode.
 * UPX.
 
 ### Compiling
-1. Ensure cl.exe, link.exe are in PATH.
+1. Ensure cl.exe, link.exe and upx.exe are in PATH.
 2. Run build.bat.
 
 ### Credits
