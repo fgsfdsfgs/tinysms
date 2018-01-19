@@ -1,5 +1,6 @@
 # TinySMS
 ![Screenshot](/screenshot.png?raw=true)
+
 A tiny Win32 demo that recreates the JPN Sega Master System BIOS' attract mode.
 
 ### Requirements
