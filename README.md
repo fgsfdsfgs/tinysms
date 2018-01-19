@@ -14,4 +14,5 @@ A tiny Win32 demo that recreates the JPN Sega Master System BIOS' attract mode.
 ### Credits
 * Maxim (?) for the PSG emulator;
 * Mitsutaka Okazaki for the YM2413 emulator.
+
 The licensing status of these two is unclear.
